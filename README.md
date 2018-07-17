@@ -6,9 +6,9 @@
   <body>
     <h1>Jeux du Morpion</h1>
 
-    Jeux réalisé par Sandrine Le Breton et Romain Saillour.</p>
-    <p>Pour lancer le jeu, lancez game.rb dans votre termimal ou console
-    ruby game.rb
+    Jeux réalisé par Sandrine Le Breton et Romain Saillour.
+    Pour lancer le jeu, lancez game.rb dans votre termimal ou console
+    >> ruby game.rb
 
 
 
