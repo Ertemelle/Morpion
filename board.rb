@@ -10,11 +10,11 @@ class Board
 
     #faire apparaitre la grille avec les chiffres
     def display
-        puts “#{@grid[0..2].join(” | “)}”
-        puts “--|---|--”
-        puts “#{@grid[3..5].join(” | “)}”
-        puts “--|---|--”
-        puts “#{@grid[6..8].join(” | “)}”
+        p "#{@grid[0..2].join(" | ")}"
+        p "--|---|--"
+        p "#{@grid[3..5].join(" | ")}"
+        p "--|---|--"
+        p "#{@grid[6..8].join(" | ")}"
 
     end
 
